@@ -1,0 +1,5 @@
+#!/bin/bash
+
+((!$#)) && echo Specify a feature name and git gud, scrub! && exit 1
+
+git flow feature start $1

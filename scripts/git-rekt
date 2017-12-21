@@ -1,0 +1,5 @@
+#!/bin/bash
+
+((!$#)) && echo Specify a feature name and git rekt, son! && exit 1
+
+git flow feature finish $1
