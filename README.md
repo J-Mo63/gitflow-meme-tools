@@ -4,6 +4,10 @@ This is an installer for OSX and Linux that aliases GitFlow feature branch tools
 
 ## Installation
 
+Before installation you must have installed:
+- A version of Ruby (often pre-installed on OSX)
+- GitFlow (can be installed with Homebrew on OSX)
+
 Run the installer with:
 ```
 ruby install-tools.rb
