@@ -4,7 +4,7 @@ This is a set of commands for OSX and Linux that alias GitFlow feature branch to
 
 ## Installation
 
-Before installation you must have installed:
+Before usage you must have installed:
 - GitFlow (can be installed with Homebrew on OSX)
 
 ## Usage
